@@ -1,4 +1,4 @@
-#Charts
+# Charts
 >A simple application to draw functions.
 
 ## Table of Contents
@@ -22,11 +22,11 @@ Project is created with:
 To run this project, run:
 ```/Charts/dist/Charts.jar```
 
-##Features
+## Features
 * Fully scalable interface
 * Error Control
 * 2 different chart types
 * Save chart to PNG, SVG, PDF
 
-##Status
+## Status
 The project's development has been completed.
